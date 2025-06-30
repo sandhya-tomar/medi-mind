@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+# MedMind Buddy
 
-## Project info
+**An AI-powered health tracker & wellness assistant**  
+Created with care by **Sandhya**
 
-**URL**: https://lovable.dev/projects/e488b98d-c3e6-4cb4-b615-246adec3afb4
+MedMind Buddy is a digital companion designed to help users take control of their mental and physical well-being. With AI-driven features and an intuitive interface, it supports daily reflection, emotional health tracking, and wellness habits — all in one seamless experience.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌟 Features
 
-**Use Lovable**
+- 🧠 AI-powered mental wellness chat
+- 📓 Daily journaling with insights
+- 📈 Mood and health tracking dashboard
+- 🧘 Breathing & mindfulness tools
+- 🔔 Reminders for wellness habits
+- 🔒 Privacy-first design — your data stays yours
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e488b98d-c3e6-4cb4-b615-246adec3afb4) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🎬 Demo
 
-**Use your preferred IDE**
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ⚙️ Tech Stack
 
-Follow these steps:
+- [React 18](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Supabase](https://supabase.com/) – Auth & real-time backend
+- [Zod](https://zod.dev/) – Schema validation
+- [TanStack React Query](https://tanstack.com/query/latest) – Data fetching
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# Clone the repository
+git clone https://github.com/your-username/medmind-buddy.git
+cd medmind-buddy
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e488b98d-c3e6-4cb4-b615-246adec3afb4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
